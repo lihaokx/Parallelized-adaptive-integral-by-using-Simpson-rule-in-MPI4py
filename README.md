@@ -8,7 +8,7 @@
 6. **Q4b.ipynb** is to calculate the cell average of a function. 
 
 
-To calculate the Parallelized-adaptive integral by using, I used the Simpson rule and Compoiste Simpson rule. The MPI module is MPI4py
+To calculate the Parallelized-adaptive integral by using Simpson rule and Composite Simpson rule. The MPI module is MPI4py
 
 """
 This code uses the 1-D parallelized adaptive algorithm to calculate the integral of a funciton f.
